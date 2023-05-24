@@ -1,9 +1,16 @@
 
-.Map {
+.Map1 {
     margin-left: 25%;
     /* background-color: black; */
     height: 400px;
     width: 50%;
+    text-align: center;
+}
+.Map {
+    margin-left: 20%;
+    /* background-color: black; */
+    height: 400px;
+    width: 60%;
     text-align: center;
 }
 .Floorplan {
