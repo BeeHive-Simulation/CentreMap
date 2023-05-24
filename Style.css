@@ -1,0 +1,11 @@
+
+.Map {
+    margin-left: 25%;
+    /* background-color: black; */
+    height: 400px;
+    width: 50%;
+    text-align: center;
+}
+.Floorplan {
+    width: 100%;
+}
